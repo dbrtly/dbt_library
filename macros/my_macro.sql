@@ -1,3 +1,3 @@
-{% macro my_macro() %}
-"library"
-{% endmacro %}
+{%- macro my_macro() -%}
+ "library"
+{%- endmacro %}
